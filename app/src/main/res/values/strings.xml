@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchImgur</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="transition_image">ImageTransition</string>
+    <string name="no_images_found">No Image Found</string>
+    <string name="type_to_begin">Type query to begin search</string>
+
+</resources>
